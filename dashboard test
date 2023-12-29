@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Embedded Power BI Report</title>
+</head>
+
+<body>
+    <iframe title="Customer_Scorecard(2023-12-19) - FINCOR" width="1140" height="541.25"
+        src="https://app.powerbi.com/reportEmbed?reportId=ee6ea8c5-e88e-4b72-9a13-069941c55fa4&amp;autoAuth=true&amp;ctid=57bb3827-b72b-4887-9e2a-f295bd19f50a"
+        frameborder="0" allowFullScreen="true"></iframe>
+</body>
+
+</html>
